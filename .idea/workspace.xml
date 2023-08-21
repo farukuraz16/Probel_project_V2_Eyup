@@ -4,15 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8917be49-40a0-400b-a3e8-b8b0def16747" name="Changes" comment="">
+    <list default="true" id="8917be49-40a0-400b-a3e8-b8b0def16747" name="Changes" comment="Brsh First">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Detayli_Arama_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Detayli_Arama_Page.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_F.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_İ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Hasta_Kayit_Page_İ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/Muayene_Kayit_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/Muayene_Kayit_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/DetaylıHastaArama_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/DetaylıHastaArama_StepDefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_F.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_İ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HastaKayit_StepDefinitions_İ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/MuayeneKayit_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/MuayeneKayit_StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/DetayliHastaArama.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/DetayliHastaArama.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_B.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_B.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_E.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_F.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_M.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_M.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/HastaKayit_İ.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/MuayeneKayit.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/MuayeneKayit.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Brsh" />
   </component>
   <component name="Git.Settings">
     <favorite-branches>
@@ -30,7 +60,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Brsh" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,28 +79,127 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/Probel_Abeyis_project/src/test/resources&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/faruk/Desktop/Proje Yedek/Probel_project_V2_ilyas/src/test/resources/features&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+      <recent name="C:\Users\BrshWin\IdeaProjects\Probel_Abeyis_project_TRY_POM_All_Den_21\src\test\resources\features" />
+      <recent name="C:\Users\BrshWin\IdeaProjects\Probel_Abeyis_project_TRY_POM_All\src\test\resources\features" />
+      <recent name="C:\Users\BrshWin\IdeaProjects\Probel_Abeyis_project_TRY\src\test\resources\features" />
       <recent name="C:\Users\user\IdeaProjects\Probel_Abeyis_project\src\test\resources" />
-      <recent name="C:\Users\user\IdeaProjects\Probel_Abeyis_project\src\test" />
-      <recent name="C:\Users\user\IdeaProjects\Probel_Abeyis_project\src\test\java" />
-      <recent name="C:\Users\user\IdeaProjects\Probel_Abeyis_project\src\test\java\pages" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="page" />
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="runner" />
       <recent name="pages" />
+      <recent name="stepdefinitions" />
+      <recent name="runner" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Probel_Abeyis_project" />
+  <component name="RunManager" selected="JUnit.Runner (3)">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Probel_Abeyis_project_TRY_POM_All_Den_21" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="RobotRunConfiguration" factoryName="RobotRunConfiguration">
+      <module name="Probel_Abeyis_project_TRY_POM_All_Den_21" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Probel_Abeyis_project_TRY_POM_All_Den_21" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: Protokol No Sorgulama" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/DetayliHastaArama.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Probel_project_V2_ilyas" />
+      <option name="NAME_FILTER" value="^Protokol No Sorgulama$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Protokol No Sorgulama$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Protokol No Sorgulama" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC0054 - *&quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot; &quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot;" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/DetayliHastaArama.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Probel_project_V2_ilyas" />
+      <option name="NAME_FILTER" value="^TC0054 \- \*\&quot;Patient Registration Query should be possible with \&quot;TC Kimlik No\&quot; \&quot;Patient Registration Query should be possible with \&quot;TC Kimlik No\&quot;$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC0054 \- \*\&quot;Patient Registration Query should be possible with \&quot;TC Kimlik No\&quot; \&quot;Patient Registration Query should be possible with \&quot;TC Kimlik No\&quot;$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC0054 - *&quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot; &quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot;" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Probel_project_V2_faruk" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="runner.*" />
@@ -84,9 +213,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Runner (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Probel_project_V2_Eyup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Probel_project_V2_ilyas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Probel_Abeyis_project_TRY_POM_All_Den_21" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Probel_Abeyis_project_TRY_POM_All_Den_21" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Protokol No Sorgulama" />
+      <item itemvalue="Cucumber Java.Scenario: TC0054 - *&quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot; &quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot;" />
+      <item itemvalue="JUnit.Runner (3)" />
+      <item itemvalue="JUnit.Runner (2)" />
+      <item itemvalue="JUnit.Runner" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Runner (3)" />
         <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: TC0054 - *&quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot; &quot;Patient Registration Query should be possible with &quot;TC Kimlik No&quot;" />
+        <item itemvalue="Cucumber Java.Scenario: Protokol No Sorgulama" />
+        <item itemvalue="JUnit.Runner (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -111,5 +294,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Probel_Abeyis_project_TRY$Scenario__TC0078_A_newborn__patient_registration_to_Acil_Erikin_Müahade_shouldn_t_be_done.ic" NAME="Scenario: TC0078 A newborn  patient registration to Acil Erişkin Müşahade shouldn't be done Coverage Results" MODIFIED="1691868716228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.cucumber.core.cli.*</FILTER>
+    </SUITE>
   </component>
 </project>
